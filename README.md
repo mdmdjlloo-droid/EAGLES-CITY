@@ -110,7 +110,7 @@ footer{
 <div class="links">
 <a href="#https://play.google.com/store/apps/details?id=com.MA.LAC">🔗 تحميل اللعبة</a>
 <a href="#SEED_ALI"الموقع الرسمي</a>
-<a href="#https://discord.gg/bP9pARwYk" موقع ايكلس دسكورد EAGLES CITY</a>
+<a href="#https://discord.gg/bP9pARwYk"موقع ايكلس دسكورد EAGLES CITY</a>
 </div>
 </div>
 
